@@ -1,16 +1,15 @@
 package javagenarray;
 
-import java.lang.Math;
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 import static java.lang.Math.random;
 
+/**
+ * @author Andrey Tynyanyi
+ * @version 1.0
+ */
+
 public class JavaGenArray {
-    /**
-     * @author Andrey Tynyanyi
-     * @version 1.0
-     */
 
     static final int K = 150; //Ограничивающий диапазон
     static final int N = 100; //количество элементов в массиве
